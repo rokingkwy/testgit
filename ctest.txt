@@ -6,4 +6,8 @@ ddddd
 ggggg
 hhhhh
 jjjjj
+<<<<<<< HEAD
 lllll
+=======
+kkkkk
+>>>>>>> fenzhi3
